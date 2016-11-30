@@ -8,3 +8,5 @@ Otherwise just post in the channel and you'll get magically added :)
 ### Second price auction
 Exercise lead: @MrChico
 
+### War of Attrition
+Exercise lead: @karlfloersch
