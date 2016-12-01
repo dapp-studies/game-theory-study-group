@@ -10,3 +10,6 @@ Exercise lead: @MrChico
 
 ### War of Attrition
 Exercise lead: @karlfloersch
+
+### Location (voting)
+Exercise lead: @apmilen
