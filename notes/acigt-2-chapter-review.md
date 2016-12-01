@@ -11,5 +11,5 @@ Exercise lead: @MrChico
 ### War of Attrition
 Exercise lead: @karlfloersch
 
-### Location (voting)
+### Location voting (Ex 19.1) & Bayesian BoS (Ex 27.2)
 Exercise lead: @apmilen
