@@ -25,3 +25,20 @@ the probability of a particular action profile given a strategy profile as the p
 of playing `s*_i` while everyone else plays `s_-i` is at least as good as the utility of playing `s_i` while everyone else plays `s_-i`
 - Nash Equlibrium in English: Strategy `s` is a Nash equilibrium if and only if for all players (agents), everyone is playing a best response.
 - Awesome Thereum: **Every mixed strategy finite game has a Nash equilibrium using**
+
+### Exercises
+#### Battle of the Sexes: Simple solution
+[This video](https://youtu.be/7jBf5fzGBlk?list=PLeY-lFPWgBThlAF5VFWlOWy5zqhkXcCqz) shows a simple method by which you can solve for nash equilibrium in small mixed strategy games in which you
+can guess the support. I'm happy to go over this.
+#### 35.1
+Same as pure strategy nash because everyone would change their probabilities to lower and lower until they all reach 1
+#### 35.2
+- Glicksberg's theorem: https://en.wikipedia.org/wiki/Glicksberg's_theorem
+I attempted this but I didn't know how to account for the mixed strategy side of things and generally struggled formulating
+it rigorously
+
+(Incorrect solutions to both exercises: https://cloud.githubusercontent.com/assets/706123/21193487/778b496e-c1fa-11e6-9b55-1e4ba0f7deaa.jpg )
+
+#### 36.1
+Totally incomplete solution, basically just a sad attempt at a mathematical formulation of the fact that the utility of
+each player's actions has to be equal as long as it is part of the support. https://cloud.githubusercontent.com/assets/706123/21194071/8f755ebe-c1fc-11e6-809b-9cf3afe59d49.jpg
