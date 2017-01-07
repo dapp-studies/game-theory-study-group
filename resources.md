@@ -11,11 +11,11 @@ Please add any related resources and comments on those resources prefaced by you
 - http://webpages.math.luc.edu/~enb/gamebook.pdf
   - [kf] A solid game theory text book suggested by @kidwai :)
 
-# Social choice theory
-- https://users.cs.duke.edu/~conitzer/introCOMSOCBOOK15.pdf 
-
 # cooperative game theory
 - http://www.wifa.uni-leipzig.de/fileadmin/user_upload/itvwl-vwl/MIKRO/Lehre/CGT-applications/acgt_2010_07_09.pdf
+
+# Social choice theory
+- https://users.cs.duke.edu/~conitzer/introCOMSOCBOOK15.pdf 
 
 # Networking & game theory
 - https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf
