@@ -13,7 +13,7 @@ Please add any related resources and comments on those resources prefaced by you
   - [kf] A solid game theory text book suggested by @kidwai :)
   - [mk] 
   	* I've updated the link to the 2nd edition, in which the problems aren't omitted. This was my only concern prior with this book.
-  	* [Here](#https://www.dal.ca/content/dam/dalhousie/pdf/faculty/science/math-stats/syllabi/MATH%203400%20-%20Fall%20term.pdf) is the syllabus for the course I used this in.
+  	* [Here](https://www.dal.ca/content/dam/dalhousie/pdf/faculty/science/math-stats/syllabi/MATH%203400%20-%20Fall%20term.pdf) is the syllabus for the course I used this in.
   	* Pros: 
   		* well-written, with sensible notation and uniformity across definitions, theorems, proofs
   		* replaces extensive linear programming background with maple commands
@@ -30,8 +30,7 @@ Please add any related resources and comments on those resources prefaced by you
 
 # Game Theory and Network Dynamics
 - [Networks, Crowds, Markets](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
- - [mk]
- 	* I've read parts of this. It's a bit wordy, but provides good intuition for modelling networks as games on graphs. Useful for people with minimal Economics background interested in killing two birds with one stone. Not necessary if aggregate network behaviour is not of interest. 
+ - [mk] I've read parts of this. It's a bit wordy, but provides good intuition for modelling networks as games on graphs. Useful for people with minimal Economics background interested in killing two birds with one stone. Not necessary if aggregate network behaviour is not of interest. 
 
 
 
