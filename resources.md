@@ -18,7 +18,7 @@ Please add any related resources and comments on those resources prefaced by you
   		* well-written, with sensible notation and uniformity across definitions, theorems, proofs
   		* replaces extensive linear programming background with maple commands
   		* lots of examples and pictures 
-  		* only 100 pages - good to get an introduction to major aspects of the theory prior focusing explicitly on a specific topic (although if a more focused book were to contained a self-contained primer that could also be useful)
+  		* only 100 pages - good to get an introduction to major aspects of the theory prior to focusing on a specific topic (although a more focused book with a self-contained primer could also be useful)
 
 
 
