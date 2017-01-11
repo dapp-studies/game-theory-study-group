@@ -33,10 +33,13 @@ Please add any related resources and comments on those resources prefaced by you
  - [mk] I've read parts of this. It's a bit wordy, but provides good intuition for modelling networks as games on graphs. Useful for people with minimal Economics background interested in killing two birds with one stone. Not necessary if aggregate network behaviour is not of interest. 
 
 # Game semantics
+[jp] This is the area I'm most interested in getting into, long term. I have only read the abstracts of the resources below, but tried to place them roughly in decreasing order of relevance (here, "relevance" includes but is not limited to "difficulty").
+
 - [Game Semantics](http://www.academia.edu/2781706/Game_semantics)
 - [Game Semantics ~~f~~or Linear Logic](http://www.csc.villanova.edu/~japaridz/CL/gsoll.html)
 - [Logic and Games](https://plato.stanford.edu/entries/logic-games/)
 - [Semantics of interaction](http://www.cs.ox.ac.uk/people/samson.abramsky/gsem/gsnotes.pdf)
+- [A game semantics for linear logic](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/30097/0000469.pdf%3bsequence=1)
 
 # Papers 
 
