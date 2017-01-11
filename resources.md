@@ -32,7 +32,11 @@ Please add any related resources and comments on those resources prefaced by you
 - [Networks, Crowds, Markets](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
  - [mk] I've read parts of this. It's a bit wordy, but provides good intuition for modelling networks as games on graphs. Useful for people with minimal Economics background interested in killing two birds with one stone. Not necessary if aggregate network behaviour is not of interest. 
 
-
+# Game semantics
+- [Game Semantics](http://www.academia.edu/2781706/Game_semantics)
+- [Game Semantics ~~f~~or Linear Logic](http://www.csc.villanova.edu/~japaridz/CL/gsoll.html)
+- [Logic and Games](https://plato.stanford.edu/entries/logic-games/)
+- [Semantics of interaction](http://www.cs.ox.ac.uk/people/samson.abramsky/gsem/gsnotes.pdf)
 
 # Papers 
 
