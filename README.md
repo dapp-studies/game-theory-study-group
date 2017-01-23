@@ -3,3 +3,13 @@
 # Research
 This repository should act as a hub for research into game theory and it's applications
 in the blockchain space, particularly Ethereum.
+
+# How to run locally
+I've included useful `npm` scripts for running this locally. Simply install the dependencies with:
+```
+$ npm install
+```
+and then serve with:
+```
+$ npm start
+```
