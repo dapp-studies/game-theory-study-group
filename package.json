@@ -1,0 +1,22 @@
+{
+  "name": "game-theory-study-group",
+  "version": "1.0.0",
+  "description": "Studies on game theory",
+  "dependencies": {
+    "gitbook-cli": "^2.3.0"
+  },
+  "scripts": {
+    "preinstall": "gitbook install",
+    "start": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/game-theory/research.git"
+  },
+  "keywords": [
+    "game theory",
+    "studies"
+  ],
+  "author": "",
+  "license": "MIT"
+}

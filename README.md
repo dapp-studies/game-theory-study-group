@@ -3,6 +3,3 @@
 # Research
 This repository should act as a hub for research into game theory and it's applications
 in the blockchain space, particularly Ethereum.
-
-Currently we are going through the book [*A Course in Game Theory*](http://icds.gzu.edu.cn/studyFiles/2014010721511410737.pdf)
-and notes on each chapter will be posted here.

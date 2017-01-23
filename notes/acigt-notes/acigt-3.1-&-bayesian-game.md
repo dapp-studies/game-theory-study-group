@@ -1,5 +1,5 @@
 ### Session Recording
-https://www.youtube.com/watch?v=TypsxePx8vI
+{% youtube %}https://www.youtube.com/watch?v=TypsxePx8vI{% endyoutube %}
 
 *NOTE: We spent a lot of time figuring out how the book defines a Bayesian Game. Once we finished we only had a little
 time to review section 3.1.*

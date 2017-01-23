@@ -1,5 +1,8 @@
-### Sesson Recording
-https://youtu.be/8sqATVZD1S4 - We went over a bunch of different examples of mixed strategies :)
+### Session Recording
+{% youtube %}https://youtu.be/8sqATVZD1S4{% endyoutube %}
+
+We went over a bunch of different examples of mixed strategies :)
+
 
 ### 3.1
 Instead of going through the book which for this section at least seems super complex, I'm using https://www.youtube.com/watch?v=FU6ax5K9HIA

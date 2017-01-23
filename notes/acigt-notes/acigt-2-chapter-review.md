@@ -1,5 +1,5 @@
 # Overview
-### [Watch a recording of the meeting here](https://www.youtube.com/watch?v=2aPc8iGg_9o)
+{% youtube %}https://www.youtube.com/watch?v=2aPc8iGg_9o{% endyoutube %}
 
 As a review of chapter 2, in Thursday's meeting we will be going over a number of the exercises.
 
