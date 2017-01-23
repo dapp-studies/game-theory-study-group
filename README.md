@@ -2,9 +2,11 @@
 
 # Research
 This repository should act as a hub for research into game theory and it's applications
-in the blockchain space, particularly Ethereum.
+in the blockchain space, particularly Ethereum. For the best reading experience
 
-# How to run locally
+#### [Read on GitBook](https://dapp-studies.gitbooks.io/game-theory-study-group/content/)
+
+# How to run GitBook locally
 I've included useful `npm` scripts for running this locally. Simply install the dependencies with:
 ```
 $ npm install
@@ -13,8 +15,3 @@ and then serve with:
 ```
 $ npm start
 ```
-
-# Read Online
-For the best reading experience, consider using GitBook here:
-
-#### [https://dapp-studies.gitbooks.io/game-theory-study-group/content/](https://dapp-studies.gitbooks.io/game-theory-study-group/content/)
