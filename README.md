@@ -13,3 +13,8 @@ and then serve with:
 ```
 $ npm start
 ```
+
+# Read Online
+For the best reading experience, consider using GitBook here:
+
+#### [https://dapp-studies.gitbooks.io/game-theory-study-group/content/](https://dapp-studies.gitbooks.io/game-theory-study-group/content/)
