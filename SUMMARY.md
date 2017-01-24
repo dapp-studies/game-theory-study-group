@@ -1,4 +1,4 @@
-# Casper Research
+# Game Theory Study Group
 
 - [Resources](resources.md)
 - [A Course in Game Theory](notes/acigt-notes/README.md)
