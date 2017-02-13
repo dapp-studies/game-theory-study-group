@@ -1,5 +1,5 @@
 # Overview
-Video session on the 2nd half of chapter 1 & a little bit of chapter 1.
+Video session on the 2nd half of chapter 1 & a little bit of chapter 2.
 
 {% youtube %}https://youtu.be/ryVdRCCMDn8{% endyoutube %}
 
