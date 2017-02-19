@@ -12,4 +12,5 @@
   * [Section 1.1-1.2](notes/gtai-1.1-1.2.md)
   * [Section 1.3-2.1](notes/section-1.3-1.6.md)
   * [Section 2.1-2.7](notes/section-2.1-2.7.md)
+  * [Section 3.\*](notes/section-3.md)
 
