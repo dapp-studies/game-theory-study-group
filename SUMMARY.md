@@ -13,4 +13,5 @@
   * [Section 1.3-2.1](notes/section-1.3-1.6.md)
   * [Section 2.1-2.7](notes/section-2.1-2.7.md)
   * [Section 3.\*](notes/section-3.md)
+  * [Section 4.1-4.2](notes/section-4.1-4.2.md)
 
